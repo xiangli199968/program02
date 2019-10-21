@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+  <configuration>  
+  <!-- 给包取别名 -->
+  	 <!-- type:全名  alias:别名 -->
+  	<!-- <typeAliases>
+  		<typeAlias type="com.dzkj.pojo.users" alias="u"/>
+  	</typeAliases> -->
+  	<!--cacheEnabled:二级缓存  lazyLoadingEnabled：懒加载  -->
+  <!-- 	<settings>
+  		<setting name="cacheEnabled" value="true"/>
+  		<setting name="lazyLoadingEnabled" value="true"/>
+  	</settings> -->
+  </configuration>
